@@ -99,7 +99,7 @@ Shows the mapping between the projects dimensions presets and the resulting inde
 
 Shows the mapping created for the NodeTypes.
 
-	./flow nodetype: showIndexableConfiguration
+	./flow nodetype:showIndexableConfiguration
 
 Shows a list of NodeTypes and if they are configured to be indexable
 
@@ -182,7 +182,7 @@ Flowpack:
 
 Which dimension combinations are available in your system and which hashes they are identified with can be shown with the CLI command: 
 
-	dflow nodeindexmapping:indices
+	./flow nodeindexmapping:indices
 
 ### Configurations per property (index field)
 
